@@ -84,11 +84,11 @@ Welcome to my GitHub! I'm a student at **Amrita University**, deep into the worl
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GirisudhanV&show_icons=true&theme=tokyonight" alt="Girisudhan's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaggiri&show_icons=true&theme=tokyonight" alt="Girisudhan's GitHub stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GirisudhanV&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaggiri&theme=tokyonight" alt="GitHub Streak"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GirisudhanV&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaggiri&layout=compact&theme=tokyonight" />
 </p>
 
 ---
