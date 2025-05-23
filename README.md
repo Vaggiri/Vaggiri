@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a student at **Amrita University**, deep into the worl
 - 🌾 **Smart Agriculture Monitoring**  
   Real-time weather & soil data using sensors, displayed on WhatsApp via Twilio.
   
-- 🌾 **Shop Billing System**  
+- 🏪 **Shop Billing System**  
   Firebase-powered retail management system with PDF invoicing, real-time sales tracking, and Google Drive integration for shop owners.
 
 
