@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a student at **Amrita University**, deep into the worl
 |-------------------|-----------------------------------------------------|
 | 💻 Languages       | Python, C, JavaScript, HTML5, CSS3                  |
 | 🌐 Web Dev         | Flask, PHP, WordPress, Tailwind, Bootstrap          |
-| 🤖 IoT & Embedded  | NodeMCU, ESP8266, Arduino, Sensors (DHT11, IR, US)  |
+| 🤖 IoT & Embedded  | NodeMCU, ESP8266, Arduino, Sensors                  |
 | ☁️ Cloud & APIs    | AWS, Google Sheets API, Twilio, GitHub Pages       |
 | 🧰 Tools           | VS Code, WP File Manager, WP User Frontend         |
 | 🎨 UI/UX           | Custom CSS, Responsive Design, Figma Basics        |
@@ -33,6 +33,10 @@ Welcome to my GitHub! I'm a student at **Amrita University**, deep into the worl
 
 - 🌾 **Smart Agriculture Monitoring**  
   Real-time weather & soil data using sensors, displayed on WhatsApp via Twilio.
+  
+- 🌾 **Shop Billing System**  
+  Firebase-powered retail management system with PDF invoicing, real-time sales tracking, and Google Drive integration for shop owners.
+
 
 - 📊 **Personal Expense Tracker**  
   Credit/debit system with PIN-locked access & auto-date entries (styled for mobile too).
@@ -92,7 +96,7 @@ Welcome to my GitHub! I'm a student at **Amrita University**, deep into the worl
 ## 📬 Connect With Me
 
 - 🌐 Website: [girisudhan.liveblog365.com](https://girisudhan.liveblog365.com)
-- 📧 Email: [giriesprojects@gmail.com](mailto:giriesprojects@gmail.com)
+- 📧 Email: [vagcreations2007@gmail.com](mailto:vagcreations2007@gmail.com)
 - 📷 Instagram: *DMs open for collabs*
 - 🔗 LinkedIn: Coming Soon!
 
