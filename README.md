@@ -95,7 +95,7 @@ Welcome to my GitHub! I'm a student at **Amrita University**, deep into the worl
 
 ## 📬 Connect With Me
 
-- 🌐 Website: [girisudhan.liveblog365.com](https://girisudhan.liveblog365.com)
+- 🌐 Website: [vagcreations.unaux.com](https://vagcreations.unaux.com)
 - 📧 Email: [vagcreations2007@gmail.com](mailto:vagcreations2007@gmail.com)
 - 📷 Instagram: *DMs open for collabs*
 - 🔗 LinkedIn: Coming Soon!
