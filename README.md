@@ -128,14 +128,14 @@
 ---
 ## 📬 Connect With Me
 
-[![🌐 Website](https://img.icons8.com/ios-filled/20/000000/domain.png)](https://vagcreations.unaux.com)  
+[![🌐 Website](https://img.icons8.com/ios-filled/20/FFFFFF/domain.png)](https://vagcreations.unaux.com)  
 **Website**: [vagcreations.unaux.com](https://vagcreations.unaux.com)
 
-[![✉️ Email](https://img.icons8.com/ios-filled/20/000000/new-post.png)](mailto:vagcreations2007@gmail.com)  
+[![✉️ Email](https://img.icons8.com/ios-filled/20/FFFFFF/new-post.png)](mailto:vagcreations2007@gmail.com)  
 **Email**: [vagcreations2007@gmail.com](mailto:vagcreations2007@gmail.com)
 
 [![📷 Instagram](https://img.icons8.com/ios-glyphs/20/e4405f/instagram-new.png)](https://instagram.com/vag.creations)  
-**Instagram**: [@vag_creations_](https://instagram.com/vag_creations_) — *DMs open for collabs*
+**Instagram**: [@vag creations](https://instagram.com/vag_creations_) — *DMs open for collabs*
 
 [![🔗 LinkedIn](https://img.icons8.com/ios-glyphs/20/0a66c2/linkedin.png)](https://in.linkedin.com/in/girisudhanvenkatesh)  
 **LinkedIn**: [linkedin.com/in/girisudhanvenkatesh](https://in.linkedin.com/in/girisudhanvenkatesh)
