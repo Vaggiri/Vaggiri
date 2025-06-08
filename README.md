@@ -1,66 +1,113 @@
-# 👋 Hey, I'm Girisudhan V — Tech Explorer & Future Innovator
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Banner">
+</p>
 
-Welcome to my GitHub! I'm a student at **Amrita University**, diving deep into **IoT**, **Web Dev**, and **Smart Automation**. Whether it’s building smart systems or sleek websites, I’m all about blending creativity with code 💡💻
+<h1 align="center">👋 Hi, I'm Girisudhan V</h1>
+<h3 align="center">Tech Explorer | IoT Innovator | Web Developer | ECE Undergrad @ Amrita University</h3>
 
 ---
 
-## 📜 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=00F58A&vCenter=true&width=500&lines=Turning+Ideas+into+Code...;IoT+%7C+Web+Automation+%7C+Smart+Systems;Open+to+Collabs%2C+Internships+%26+Freelance!" alt="Typing Animation" />
+</p>
 
-- 🎓 ECE undergrad @ Amrita University  
-- 💡 Passionate about **Embedded Systems**, **Smart Agriculture**, & **Web Automation**
-- 🌍 Open to internships, collabs, and freelance gigs  
-- ⚡ Motto: *"Think it. Build it. Automate it."*
+---
+
+## 🚀 About Me
+
+- 🎓 **ECE undergraduate** at <b>Amrita University</b>
+- 💡 Passionate about <b>Embedded Systems, Smart Agriculture, Web Automation, IoT</b>
+- 🌱 Always learning: REST APIs, ML for IoT, Firebase Dashboards, Voice Control
+- 📈 Open to **internships**, **collaborations**, and **freelance projects**
+- ⚡ Motto: <i>"Think it. Build it. Automate it."</i>
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-| Domain            | Tools / Frameworks                                                                                                                                       |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 💻 **Languages**     | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| 🌐 **Web Dev**       | ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) |
-| 🤖 **IoT / Embedded**| ![NodeMCU](https://img.shields.io/badge/-NodeMCU-1B365D?style=flat) ![ESP8266](https://img.shields.io/badge/-ESP8266-FF4300?style=flat) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Sensors](https://img.shields.io/badge/-Sensors-00C853?style=flat) |
-| ☁️ **Cloud & APIs**  | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Google Sheets API](https://img.shields.io/badge/-Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white) ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat&logo=twilio&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-121013?style=flat&logo=github&logoColor=white) |
-| 🧰 **Tools**          | ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![WP File Manager](https://img.shields.io/badge/-WP%20File%20Manager-21759B?style=flat) ![WP User Frontend](https://img.shields.io/badge/-WP%20User%20Frontend-21759B?style=flat) |
-| 🎨 **UI/UX**          | ![CSS](https://img.shields.io/badge/-Custom%20CSS-264DE4?style=flat&logo=css3&logoColor=white) ![Responsive Design](https://img.shields.io/badge/-Responsive%20Design-0ABF53?style=flat) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) |
+<table>
+  <tr>
+    <td align="center"><b>Languages</b><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+    </td>
+    <td align="center"><b>Web Dev</b><br>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
+    </td>
+    <td align="center"><b>IoT & Embedded</b><br>
+      <img src="https://img.shields.io/badge/NodeMCU-1B365D?style=flat"/>
+      <img src="https://img.shields.io/badge/ESP8266-FF4300?style=flat"/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Sensors-00C853?style=flat"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud & APIs</b><br>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub%20Pages-121013?style=flat&logo=github&logoColor=white"/>
+    </td>
+    <td align="center"><b>Tools</b><br>
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+      <img src="https://img.shields.io/badge/WP%20File%20Manager-21759B?style=flat"/>
+      <img src="https://img.shields.io/badge/WP%20User%20Frontend-21759B?style=flat"/>
+    </td>
+    <td align="center"><b>UI/UX</b><br>
+      <img src="https://img.shields.io/badge/Custom%20CSS-264DE4?style=flat&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Responsive%20Design-0ABF53?style=flat"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🧪 Current Projects
 
-- 🔐 **Smart Lock System** – NodeMCU + Servo Motor, web-controlled  
-- 🌾 **Smart Agri Monitoring** – Sends sensor data to WhatsApp using Twilio  
-- 🏪 **Shop Billing System** – PDF invoicing + Google Drive upload  
-- 📊 **Expense Tracker** – Mobile-friendly credit/debit logs with PIN lock  
+| Project                          | Tech Used                       | Description                                                      |
+|-----------------------------------|---------------------------------|------------------------------------------------------------------|
+| **Smart Lock System**             | NodeMCU, Servo, Web             | IoT lock controlled from the web                                 |
+| **Smart Agri Monitoring**         | Sensors, NodeMCU, Twilio        | Sensor data to WhatsApp in real-time                             |
+| **Shop Billing System**           | Python, Google Drive, PDF       | Automated invoicing + cloud upload                               |
+| **Expense Tracker**               | JS, HTML/CSS, PIN Lock          | Mobile, secure credit/debit logs                                 |
 
 ---
 
-## 📌 Featured Projects
+## 🚩 Featured Projects
 
 | Project | Tech Used | Description |
 |--------|-----------|-------------|
-| **[Soil + Weather WhatsApp Bot](#)** | NodeMCU, Google Sheets, Twilio | Sensors push data to Sheets, users query data via WhatsApp |
-| **[Flask + AWS Web App](#)** | Flask, HTML, EC2 | Live Flask server with auto sensor value updates |
-| **[WordPress Upload Portal](#)** | WordPress, PHP | Secured file upload & viewing system |
+| <a href="#"><b>Soil + Weather WhatsApp Bot</b></a> | NodeMCU, Google Sheets, Twilio | Sensors push data to Sheets, users query via WhatsApp |
+| <a href="#"><b>Flask + AWS Web App</b></a> | Flask, HTML, EC2 | Live sensor data via Flask hosted on AWS |
+| <a href="#"><b>WordPress Upload Portal</b></a> | WordPress, PHP | Secure file upload & viewing system |
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Finalist – **Smart Tech Hackathon** @ Amrita  
-- 🔧 Solo-built IoT + WhatsApp bot system  
-- 🧪 Top ranker in Embedded Systems lab work  
-- 🌐 Published multiple live websites  
+- 🥇 Finalist – <b>Smart Tech Hackathon</b> @ Amrita
+- 🔧 Solo-built IoT + WhatsApp bot system
+- 🧪 Top ranker in Embedded Systems lab work
+- 🌐 Published multiple live websites
 
 ---
 
-## 📚 2025 Learning Goals
+## 🎯 2025 Goals
 
-- 🔧 Build & publish REST APIs  
-- ☁️ Create IoT dashboards on Firebase  
-- 🗣 Add voice control to my smart systems  
-- 🧠 Learn ML basics with sensor data  
-- 📦 Launch a tech product here on GitHub  
+- 🔧 Build & publish REST APIs
+- ☁️ Create IoT dashboards on Firebase
+- 🗣 Add voice control to smart systems
+- 🧠 Learn ML basics with sensor data
+- 📦 Launch an open-source tech product
 
 ---
 
@@ -79,14 +126,20 @@ Welcome to my GitHub! I'm a student at **Amrita University**, diving deep into *
 </p>
 
 ---
-
 ## 📬 Connect With Me
 
-- 🌐 Website: [vagcreations.unaux.com](https://vagcreations.unaux.com)  
-- 📧 Email: [vagcreations2007@gmail.com](mailto:vagcreations2007@gmail.com)  
-- 📷 Instagram: *DMs open for collabs*  
-- 🔗 LinkedIn: Coming Soon!
+[![🌐 Website](https://img.icons8.com/ios-filled/20/000000/domain.png)](https://vagcreations.unaux.com)  
+**Website**: [vagcreations.unaux.com](https://vagcreations.unaux.com)
+
+[![✉️ Email](https://img.icons8.com/ios-filled/20/000000/new-post.png)](mailto:vagcreations2007@gmail.com)  
+**Email**: [vagcreations2007@gmail.com](mailto:vagcreations2007@gmail.com)
+
+[![📷 Instagram](https://img.icons8.com/ios-glyphs/20/e4405f/instagram-new.png)](https://instagram.com/vag.creations)  
+**Instagram**: [@vag_creations_](https://instagram.com/vag_creations_) — *DMs open for collabs*
+
+[![🔗 LinkedIn](https://img.icons8.com/ios-glyphs/20/0a66c2/linkedin.png)](https://in.linkedin.com/in/girisudhanvenkatesh)  
+**LinkedIn**: [linkedin.com/in/girisudhanvenkatesh](https://in.linkedin.com/in/girisudhanvenkatesh)
 
 ---
 
-> *"Keep building, keep learning. Your code can change the world."* 🌍
+> _"Keep building, keep learning. Your code can change the world."_ 🌍
