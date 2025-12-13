@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=GIRISUDHAN%20V&fontSize=60&fontAlignY=38&desc=AIoT%20%7C%20Embedded%20Systems%20%7C%20Full-Stack%20Developer&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=GIRISUDHAN%20V&fontSize=60&fontAlignY=38&desc=IoT%20%7C%20Embedded%20Systems%20%7C%20Web%20Developer&descAlignY=60&animation=fadeIn" />
 </p>
 
 <h3 align="center">
