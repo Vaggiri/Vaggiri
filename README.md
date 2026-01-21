@@ -9,29 +9,41 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Girisudhan%20V&fontSize=45&fontAlignY=35&desc=IoT%20Architect%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=16&animation=fadeIn&fontColor=ffffff" alt="Girisudhan Header" width="100%" />
 </div>
 
-<!-- TROPHIES -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Vaggiri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="Girisudhan's Trophies" width="85%" />
-  </a>
-</div>
-
 <div align="center">
   <br />
-  <a href="https://github.com/Vaggiri">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+   <!-- Instagram -->
+  <a href="https://www.instagram.com/urs._giri_" target="_blank">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+      alt="Instagram"
+      width="42"
+      style="margin: 0 12px; margin-right: 100px;"
+    />
   </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/girisudhanvenkatesh">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+&nbsp;&nbsp;&nbsp;
+  <!-- LinkedIn -->
+  <a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+      alt="LinkedIn"
+      width="42"
+      style="margin: 0 12px;"
+    />
   </a>
-  &nbsp;
-  <a href="mailto:vagcreations2007@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+&nbsp;&nbsp;&nbsp;
+  <!-- Gmail -->
+  <a href="mailto:contact.girisudhanv@gmail.com">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
+      alt="Gmail"
+      width="42"
+      style="margin: 0 12px;"
+    />
   </a>
-  &nbsp;
-  <img src="https://img.shields.io/github/public-overview/Vaggiri?style=for-the-badge&logo=github&label=Public%20Repos" alt="Public Repos" />
+
 </div>
+
 
 <br />
 <p align="center">
@@ -40,14 +52,38 @@
   </a>
 </p>
 
-<!-- DETAILED ABOUT ME -->
-## 🧑‍💻 Developer Profile
+<!-- PROFILE STATS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vaggiri&label=Profile%20Views&color=blueviolet&style=flat" />
+  <img src="https://img.shields.io/github/followers/Vaggiri?label=Followers&style=flat" />
+  <img src="https://img.shields.io/github/stars/Vaggiri?label=Stars&style=flat" />
+</p>
 
-I am an **Electronics & Communication Engineer** at **Amrita University** driven by the philosophy of **"Bridging Atoms and Bits"**. I specialize in creating systems where hardware sensors seamlessly communicate with cloud intelligence to solve real-world problems.
 
-Starting with simple **Arduino prototypes**, my journey has evolved into designing complex **AIoT architectures** and **scalable web applications**. I don't just write code; I engineer solutions that are efficient, scalable, and user-centric.
+## 🧑‍💻 About Me
 
-- 🏆 **Hackathon Winner** & Core Member of **Intel IoT Club**.
+I am an **Electronics & Communication Engineer** at **Amrita University** driven by the philosophy of **"Debugging hardware, shipping software, learning nonstop"**. I specialize in creating systems where hardware sensors seamlessly communicate with cloud intelligence to solve real-world problems.
+
+Starting with simple **Arduino prototypes**, my journey has evolved into designing complex **IoT architectures** and **scalable web applications**. I don't just write code; I engineer solutions that are efficient, scalable, and user-centric.
+
+- 🏆 Hackathon Winner  
+- 🧠 Core Member – Intel IoT Club  
+- 🔌 Embedded → 🌐 Cloud → 🤖 AI pipelines
+
+> *“Engineering the Space Between Hardware and Software.”*
+
+---
+
+## 🎯 Engineering Philosophy
+
+- 🔹 Design for **real-world constraints**
+- 🔹 Optimize for **latency, power & scale**
+- 🔹 Write **maintainable, readable systems**
+- 🔹 Treat hardware & software as equals
+
+> _“A system is only as strong as its weakest integration.”_
+
+---
 
 <table>
   <tr>
@@ -74,36 +110,43 @@ Starting with simple **Arduino prototypes**, my journey has evolved into designi
 
 ---
 
-<!-- TECH STACK -->
 ## 🛠️ Technical Arsenal
 
-<div align="center">
+### 🌐 Frontend
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
+</p>
 
-### **Client-Side**
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+### 🧠 Backend & Cloud
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
+</p>
 
-### **Server-Side & Cloud**
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+### 🤖 Embedded / AI / IoT
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+</p>
 
-### **IoT & AI**
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-
-</div>
 
 ---
 
@@ -130,15 +173,71 @@ Starting with simple **Arduino prototypes**, my journey has evolved into designi
 ---
 
 <!-- PROJECT SHOWCASE -->
-## 🚀 Featured Projects
+## 🚀 Flagship Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🤖 AI Navigation Assistant** | **Chrome Extension** that acts as a smart sidecar for websites. Features dual-mode AI (Cloud **Gemini** + Local **SentenceTransformer**), voice commands, and privacy-focused firewall. | `JavaScript` `Python` `Gemini API` `Chrome API` |
-| **🚓 E Challan Generator** | A comprehensive **Traffic Violation Management System**. Features Admin/User portals, vehicle registration, automatic email notifications, and PDF generation for challans. | `Node.js` `Express` `MongoDB` `Nodemailer` `PDFKit` |
-| **🛒 Smart Grocery Basket** | **AIoT Billing System**. Uses **ESP32-CAM** to scan barcodes and stream data to a cloud node. Reduces checkout time by ~60% with real-time inventory syncing. | `ESP32` `IoT` `REST APIs` `Render` |
-| **🌫️ Air Quality Forecaster** | **ML-driven environmental monitor**. Deployed on public transport to map city-wide air quality trends. Provides greater coverage than static stations. | `Python` `Machine Learning` `Data Analytics` |
-| **🔐 QR Entry System** | **Event Management System** using QR codes. Features real-time student verification, admin dashboards, and automated Google Sheets integration. | `Flask` `OpenCV` `Firebase` |
+### 🛒 Smart Grocery Basket
+An **AIoT-based smart billing system** that uses an **ESP32-CAM** to scan product barcodes and stream image frames to a **cloud-hosted Node.js server**. Barcodes are decoded in the cloud, and product details are pushed to a `/result` endpoint for **real-time billing and inventory updates**, significantly reducing checkout time.
+
+**Tech Stack:**  
+`ESP32-CAM` · `Node.js` · `Arduino IDE` · `REST APIs` · `Render`
+
+---
+
+### 🎟️ Anokha Techfair Attendance System
+A **real-time digital attendance platform** built for **Anokha 2026 Techfair** to replace manual entry systems. Implemented **QR-based scanning using ESP32**, live updates via **Firebase Realtime Database**, secure **PIN-based authentication**, interactive dashboards, analytics, and **Excel export** for offline reporting.
+
+**Tech Stack:**  
+`React` · `Vite` · `Firebase RTDB` · `ESP32` · `GSAP` · `Recharts` · `XLSX`
+
+---
+
+### 🚲 Smart Bicycle Locker
+A **smart access-controlled bicycle locker system** where I contributed as a **full-stack developer**. Designed and deployed the **authentication and login system**, handled frontend–backend integration, resolved critical bugs, and supported the hardware team to ensure smooth **end-to-end system operation**.
+
+**Tech Stack:**  
+`MERN Stack` · `React Native` · `Node.js` · `MongoDB` · `Vite`
+
+---
+
+### 🌫️ AIoT Air Quality Forecaster
+An **AIoT-powered air quality forecasting system** deployed on **public transport vehicles** to collect live environmental data across the city. Data is processed using a trained **machine learning model** and visualized on a **real-time web dashboard** for both users and administrators.
+
+**Tech Stack:**  
+`Python` · `Machine Learning` · `IoT` · `Web Dashboard`
+
+---
+
+### 🔐 QR Based Door Entry System
+A **real-time student verification and access control system** built using **ESP32-CAM** for QR scanning and **Firebase** for live data sync. Integrated a **Flask backend**, Google Sheets, PDF report generation, cooldown logic, and an admin dashboard with **Dark Mode and role-based controls**.
+
+**Tech Stack:**  
+`Flask` · `Firebase` · `ESP32-CAM` · `OpenCV` · `Google Sheets API`
+
+---
+
+### 🧭 Mini Mapper
+A **navigation assistance system for bikers** where I worked as a **frontend developer**. Built a minimal, power-efficient dashboard that processes routes using **Google Maps / OpenStreetMap APIs** and streams navigation instructions to an **ESP32-powered OLED display**.
+
+**Tech Stack:**  
+`HTML` · `Tailwind CSS` · `JavaScript` · `Flask` · `Maps APIs`
+
+
+---
+## 🧩 What Makes Me Different?
+
+✔ Embedded + Web in one brain  
+✔ Hardware-aware software design  
+✔ Clean architecture mindset  
+✔ Real deployments, not demos  
+
+---
+
+## 📌 Current Focus Areas
+
+- ⚡ Edge AI on microcontrollers  
+- ☁️ Serverless IoT pipelines  
+- 📡 Low-latency communication  
+- 🧠 Applied ML systems  
 
 ---
 
