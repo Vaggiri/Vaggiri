@@ -34,6 +34,11 @@
 </div>
 
 <br />
+<p align="center">
+  <a href="https://user-badge.committers.top/india/Vaggiri">
+    <img src="https://user-badge.committers.top/india/Vaggiri.svg" />
+  </a>
+</p>
 
 <!-- DETAILED ABOUT ME -->
 ## 🧑‍💻 Developer Profile
