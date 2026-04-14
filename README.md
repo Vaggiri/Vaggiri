@@ -161,10 +161,10 @@ Starting with simple **Arduino prototypes**, my journey has evolved into designi
  <table>
   <tr>
     <td width="50%">
-      <img src="https://vaggiri-github.vercel.app/api?username=Vaggiri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Girisudhan's Stats" width="100%" />
+      <img src="https://vaggiri-github.vercel.app/api?username=Vaggiri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&v=1" alt="Girisudhan's Stats" width="100%" />
     </td>
     <td width="50%">
-       <img src="https://vaggiri-github.vercel.app/api/top-langs/?username=Vaggiri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" width="100%" />
+       <img src="https://vaggiri-github.vercel.app/api/top-langs/?username=Vaggiri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&v=1" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
