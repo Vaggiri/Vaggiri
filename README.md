@@ -9,6 +9,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Girisudhan%20V&fontSize=45&fontAlignY=35&desc=IoT%20Architect%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=16&animation=fadeIn&fontColor=ffffff" alt="Girisudhan Header" width="100%" />
 </div>
 
+
 <div align="center">
   <br />
 
@@ -112,40 +113,55 @@ Starting with simple **Arduino prototypes**, my journey has evolved into designi
 
 ## 🛠️ Technical Arsenal
 
-### 🌐 Frontend
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-</p>
+<div align="center">
+  <table width="100%">
+    <thead>
+      <tr>
+        <th width="25%">Category</th>
+        <th width="75%">Tech Stack & Tools</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center"><strong>🌐 Frontend</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> 
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><strong>🧠 Backend & Cloud</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><strong>🤖 IoT & AI</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+          <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center"><strong>🔧 Tools</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+          <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+          <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-### 🧠 Backend & Cloud
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
-</p>
-
-### 🤖 Embedded / AI / IoT
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
-</p>
 
 
 ---
@@ -155,19 +171,26 @@ Starting with simple **Arduino prototypes**, my journey has evolved into designi
 
 <div align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaggiri&theme=tokyonight&hide_border=true&area=true" alt="Contribution Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaggiri&theme=react&hide_border=true&area=true" alt="Contribution Graph" width="90%" />
   <br /><br />
   
- <table>
-  <tr>
-    <td width="50%">
-      <img src="https://vaggiri-github.vercel.app/api?username=Vaggiri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&v=1" alt="Girisudhan's Stats" width="100%" />
-    </td>
-    <td width="50%">
-       <img src="https://vaggiri-github.vercel.app/api/top-langs/?username=Vaggiri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&v=1" alt="Top Languages" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="410px" align="center">
+        <img src="https://vaggiri-github.vercel.app/api?username=Vaggiri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true&v=4" width="400px" alt="Girisudhan's Stats" />
+      </td>
+      <td width="410px" align="center">
+        <img src="https://vaggiri-github.vercel.app/api/top-langs/?username=Vaggiri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8&v=4" width="400px" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding-top: 10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaggiri&theme=tokyonight&hide_border=true&v=4" width="600px" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 </div>
 
 ---
