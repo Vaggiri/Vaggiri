@@ -171,7 +171,7 @@ Starting with simple **Arduino prototypes**, my journey has evolved into designi
 
 <div align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vaggiri&theme=react&hide_border=true&area=true" alt="Contribution Graph" width="90%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vaggiri&theme=tokyonight" width="90%" />
   <br /><br />
   
 <div align="center">
