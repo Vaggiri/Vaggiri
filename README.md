@@ -167,13 +167,6 @@ Starting with simple **Arduino prototypes**, my journey has evolved into designi
 <!-- PROJECT SHOWCASE -->
 ## 🚀 Flagship Projects
 
-### 🛒 Smart Grocery Basket
-An **AIoT-based smart billing system** that uses an **ESP32-CAM** to scan product barcodes and stream image frames to a **cloud-hosted Node.js server**. Barcodes are decoded in the cloud, and product details are pushed to a `/result` endpoint for **real-time billing and inventory updates**, significantly reducing checkout time.
-
-**Tech Stack:**  
-`ESP32-CAM` · `Node.js` · `Arduino IDE` · `REST APIs` · `Render`
-
----
 
 ### 🎟️ Anokha Techfair Attendance System
 A **real-time digital attendance platform** built for **Anokha 2026 Techfair** to replace manual entry systems. Implemented **QR-based scanning using ESP32**, live updates via **Firebase Realtime Database**, secure **PIN-based authentication**, interactive dashboards, analytics, and **Excel export** for offline reporting.
