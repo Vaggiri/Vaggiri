@@ -51,13 +51,6 @@
 </div>
 
 
-<br />
-<p align="center">
-  <a href="https://user-badge.committers.top/india/Vaggiri">
-    <img src="https://user-badge.committers.top/india/Vaggiri.svg" />
-  </a>
-</p>
-
 <!-- PROFILE STATS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vaggiri&label=Profile%20Views&color=blueviolet&style=flat" />
