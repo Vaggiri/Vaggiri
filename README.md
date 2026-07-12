@@ -5,8 +5,13 @@
 -->
 
 <!-- HEADER & BANNER -->
+<!-- HEADER & BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Girisudhan%20V&fontSize=45&fontAlignY=35&desc=IoT%20Architect%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=65&descSize=16&animation=fadeIn&fontColor=ffffff" alt="Girisudhan Header" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile.svg">
+    <img src="./profile.svg" alt="Girisudhan Venkatesh - Terminal Profile" width="100%" />
+  </picture>
 </div>
 
 
@@ -72,42 +77,6 @@ Starting with simple **Arduino prototypes**, my journey has evolved into designi
 - 🔌 Embedded → 🌐 Cloud → 🤖 AI pipelines
 
 > *“Engineering the Space Between Hardware and Software.”*
-
----
-
-## 🎯 Engineering Philosophy
-
-- 🔹 Design for **real-world constraints**
-- 🔹 Optimize for **latency, power & scale**
-- 🔹 Write **maintainable, readable systems**
-- 🔹 Treat hardware & software as equals
-
-> _“A system is only as strong as its weakest integration.”_
-
----
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <strong>🔭 Current Focus</strong>
-      <ul>
-        <li><strong>Edge AI</strong>: optimizing ML models for ESP32/Jetson.</li>
-        <li><strong>Cloud-Native IoT</strong>: Serverless data pipelines.</li>
-        <li><strong>Full-Stack</strong>: Advanced MERN architectures.</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <strong>🌱 Learning Journey</strong>
-      <ul>
-        <li><strong>Rust</strong> for embedded safety.</li>
-        <li><strong>Kubernetes</strong> for container orchestration.</li>
-        <li><strong>WebRTC</strong> for real-time video streaming.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-> *"The best way to predict the future is to invent it."*
 
 ---
 
